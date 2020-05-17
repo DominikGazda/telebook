@@ -1,0 +1,9 @@
+#addButton {
+    -fx-background-image: url("../img/addUser.png");
+}
+#delButton{
+    -fx-background-image: url("../img/delUser.png");
+}
+#searchButton{
+    -fx-background-image: url("../img/search.png");
+}
